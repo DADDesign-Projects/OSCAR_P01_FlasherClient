@@ -1,0 +1,17 @@
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Core/Inc/GUI_Event.h:32:18:virtual void DadGUI::iGUI_EventListener::on_GUI_RT_Process()	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Core/Inc/GUI_Event.h:35:18:virtual void DadGUI::iGUI_EventListener::on_GUI_RT_ProcessIn(AudioBuffer*)	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Core/Inc/GUI_Event.h:38:18:virtual void DadGUI::iGUI_EventListener::on_GUI_RT_ProcessOut(AudioBuffer*)	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Core/Inc/GUI_Event.h:41:18:virtual void DadGUI::iGUI_EventListener::on_GUI_Update()	1
+../DAD_FORGE/Effects/_EffectBase/Src/MultiModeEffect.cpp:149:10:static void DadEffect::cMainMultiModeEffect::EffectChange(DadDSP::cParameter*, uint32_t)	1
+../DAD_FORGE/Effects/_EffectBase/Src/MultiModeEffect.cpp:163:10:static void DadEffect::cMainMultiModeEffect::StartRestoreEvent(void*, uint32_t)	1
+../DAD_FORGE/Effects/_EffectBase/Src/MultiModeEffect.cpp:179:10:static void DadEffect::cMainMultiModeEffect::EndRestoreEvent(void*, uint32_t)	2
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/Effects/_EffectBase/Inc/MultiModeEffect.h:130:7:virtual DadEffect::cMainMultiModeEffect::~cMainMultiModeEffect()	34
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/Effects/_EffectBase/Inc/MultiModeEffect.h:130:7:DadEffect::cMainMultiModeEffect::~cMainMultiModeEffect()	34
+../DAD_FORGE/Effects/_EffectBase/Src/MultiModeEffect.cpp:25:10:void DadEffect::cMultiModeEffectBase::Initialize()	1
+../DAD_FORGE/Effects/_EffectBase/Src/MultiModeEffect.cpp:34:10:void DadEffect::cMultiModeEffectBase::Activate()	1
+../DAD_FORGE/Effects/_EffectBase/Src/MultiModeEffect.cpp:44:10:void DadEffect::cMultiModeEffectBase::Desactivate()	1
+../DAD_FORGE/Effects/_EffectBase/Src/MultiModeEffect.cpp:57:10:void DadEffect::cMainMultiModeEffect::Initialize()	10
+../DAD_FORGE/Effects/_EffectBase/Src/MultiModeEffect.cpp:114:10:void DadEffect::cMainMultiModeEffect::Process(AudioBuffer*, AudioBuffer*, eOnOff, bool)	4
+../DAD_FORGE/Effects/_EffectBase/Src/MultiModeEffect.cpp:213:10:void DadEffect::cMainMultiModeEffect::setEffect(uint8_t)	2
+../DAD_FORGE/Effects/_EffectBase/Src/MultiModeEffect.cpp:195:10:virtual void DadEffect::cMainMultiModeEffect::on_GUI_FastUpdate()	3
+../DAD_FORGE/Effects/_EffectBase/Src/MultiModeEffect.cpp:224:27:DadEffect::cMultiModeEffectBase* DadEffect::cMainMultiModeEffect::getEffect(uint8_t) const	2

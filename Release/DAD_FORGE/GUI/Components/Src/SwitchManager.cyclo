@@ -1,0 +1,12 @@
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Core/Inc/GUI_Event.h:32:18:virtual void DadGUI::iGUI_EventListener::on_GUI_RT_Process()	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Core/Inc/GUI_Event.h:35:18:virtual void DadGUI::iGUI_EventListener::on_GUI_RT_ProcessIn(AudioBuffer*)	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Core/Inc/GUI_Event.h:38:18:virtual void DadGUI::iGUI_EventListener::on_GUI_RT_ProcessOut(AudioBuffer*)	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Core/Inc/GUI_Event.h:41:18:virtual void DadGUI::iGUI_EventListener::on_GUI_Update()	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Components/Inc/SwitchManager.h:66:13:DadGUI::cTapTempoMemChange::~cTapTempoMemChange()	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Components/Inc/SwitchManager.h:25:13:DadGUI::cSwitchOnOff::~cSwitchOnOff()	1
+../DAD_FORGE/GUI/Components/Src/SwitchManager.cpp:95:6:virtual void DadGUI::cTapTempoMemChange::on_GUI_FastUpdate()	10
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Components/Inc/SwitchManager.h:66:13:virtual DadGUI::cTapTempoMemChange::~cTapTempoMemChange()	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Components/Inc/SwitchManager.h:25:13:virtual DadGUI::cSwitchOnOff::~cSwitchOnOff()	1
+../DAD_FORGE/GUI/Components/Src/SwitchManager.cpp:41:6:virtual void DadGUI::cSwitchOnOff::on_GUI_FastUpdate()	8
+../DAD_FORGE/GUI/Components/Src/SwitchManager.cpp:28:6:void DadGUI::cSwitchOnOff::Init(DadDrivers::cSwitch*, uint32_t)	3
+../DAD_FORGE/GUI/Components/Src/SwitchManager.cpp:78:6:void DadGUI::cTapTempoMemChange::Init(DadDrivers::cSwitch*, DadDSP::cParameter*, uint32_t, DadGUI::eTempoType)	3

@@ -1,0 +1,13 @@
+../DAD_FORGE/Utilities/Src/cMonitor.cpp:29:1:DadUtilities::cMonitor::cMonitor()	1
+../DAD_FORGE/Utilities/Src/cMonitor.cpp:54:6:void DadUtilities::cMonitor::Init()	2
+../DAD_FORGE/Utilities/Src/cMonitor.cpp:67:6:void DadUtilities::cMonitor::reset()	1
+../DAD_FORGE/Utilities/Src/cMonitor.cpp:81:7:float DadUtilities::cMonitor::getAverageExecutionTime_us() const	2
+../DAD_FORGE/Utilities/Src/cMonitor.cpp:92:7:float DadUtilities::cMonitor::getMinExecutionTime_us() const	2
+../DAD_FORGE/Utilities/Src/cMonitor.cpp:102:7:float DadUtilities::cMonitor::getMaxExecutionTime_us() const	1
+../DAD_FORGE/Utilities/Src/cMonitor.cpp:110:7:float DadUtilities::cMonitor::getAverageFrequency_Hz() const	2
+../DAD_FORGE/Utilities/Src/cMonitor.cpp:121:7:float DadUtilities::cMonitor::getMinFrequency_Hz() const	2
+../DAD_FORGE/Utilities/Src/cMonitor.cpp:131:7:float DadUtilities::cMonitor::getMaxFrequency_Hz() const	2
+../DAD_FORGE/Utilities/Src/cMonitor.cpp:141:7:float DadUtilities::cMonitor::getCPULoad_percent() const	4
+../DAD_FORGE/Utilities/Src/cMonitor.cpp:153:10:uint32_t DadUtilities::cMonitor::getAverageExecutionCycles() const	2
+../DAD_FORGE/Utilities/Src/cMonitor.cpp:162:10:uint32_t DadUtilities::cMonitor::getMinExecutionCycles() const	2
+../DAD_FORGE/Utilities/Src/cMonitor.cpp:173:6:static void DadUtilities::cMonitor::initDWT()	2

@@ -1,0 +1,11 @@
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi.c:330:16:USBD_MIDI_DataIn	0	static
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi.c:373:17:USBD_MIDI_GetFSCfgDesc	0	static
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi.c:347:16:USBD_MIDI_DataOut	8	static
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi.c:267:16:USBD_MIDI_Setup	16	static
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi.c:238:16:USBD_MIDI_DeInit	16	static
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi.c:196:16:USBD_MIDI_Init	16	static
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi.c:387:9:USBD_MIDI_RegisterInterface	0	static
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi.c:403:9:USBD_MIDI_SetTxBuffer	0	static
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi.c:421:9:USBD_MIDI_SetRxBuffer	0	static
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi.c:440:9:USBD_MIDI_TransmitPacket	0	static
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi.c:462:9:USBD_MIDI_ReceivePacket	8	static

@@ -1,0 +1,17 @@
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Core/Inc/GUI_Event.h:35:18:virtual void DadGUI::iGUI_EventListener::on_GUI_RT_ProcessIn(AudioBuffer*)	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Core/Inc/GUI_Event.h:38:18:virtual void DadGUI::iGUI_EventListener::on_GUI_RT_ProcessOut(AudioBuffer*)	1
+../DAD_FORGE/GUI/Components/Src/cUIParameter.cpp:95:6:virtual bool DadGUI::cUIParameter::isDirty()	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Components/Inc/cUIParameter.h:24:7:DadGUI::cUIParameter::~cUIParameter()	1
+../DAD_FORGE/GUI/Components/Src/cUIParameter.cpp:68:6:virtual void DadGUI::cUIParameter::Save(DadPersistentStorage::cSerialize*)	1
+../DAD_FORGE/GUI/Components/Src/cUIParameter.cpp:78:6:virtual void DadGUI::cUIParameter::Restore(DadPersistentStorage::cSerialize*)	2
+../DAD_FORGE/GUI/Components/Src/cUIParameter.cpp:104:6:virtual void DadGUI::cUIParameter::on_GUI_Update()	4
+../DAD_FORGE/GUI/Components/Src/cUIParameter.cpp:121:6:virtual void DadGUI::cUIParameter::on_GUI_FastUpdate()	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Components/Inc/cUIParameter.h:24:7:virtual DadGUI::cUIParameter::~cUIParameter()	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Components/Inc/cUIParameter.h:24:7:virtual void* DadGUI::cUIParameter::_ZThn8_N6DadGUI12cUIParameterD1Ev()	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Components/Inc/cUIParameter.h:24:7:virtual void* DadGUI::cUIParameter::_ZThn4_N6DadGUI12cUIParameterD1Ev()	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Components/Inc/cUIParameter.h:70:10:virtual bool DadGUI::cUIParameter::_ZThn4_N6DadGUI12cUIParameter7isDirtyEv()	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Components/Inc/cUIParameter.h:24:7:virtual void* DadGUI::cUIParameter::_ZThn8_N6DadGUI12cUIParameterD0Ev()	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Components/Inc/cUIParameter.h:24:7:virtual void* DadGUI::cUIParameter::_ZThn4_N6DadGUI12cUIParameterD0Ev()	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Components/Inc/cUIParameter.h:56:10:virtual void DadGUI::cUIParameter::_ZThn4_N6DadGUI12cUIParameter4SaveEPN20DadPersistentStorage10cSerializeE(DadPersistentStorage::cSerialize*)	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Components/Inc/cUIParameter.h:63:10:virtual void DadGUI::cUIParameter::_ZThn4_N6DadGUI12cUIParameter7RestoreEPN20DadPersistentStorage10cSerializeE(DadPersistentStorage::cSerialize*)	2
+../DAD_FORGE/GUI/Components/Src/cUIParameter.cpp:30:6:void DadGUI::cUIParameter::Init(uint32_t, float, float, float, float, float, DadDSP::CallbackType, uint32_t, float, uint8_t, bool)	11

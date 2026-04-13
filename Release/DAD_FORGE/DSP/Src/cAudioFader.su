@@ -1,0 +1,7 @@
+../DAD_FORGE/DSP/Src/cAudioFader.cpp:23:6:void DadDSP::cAudioFader::Initialize(uint32_t, float)	0	static
+../DAD_FORGE/DSP/Src/cAudioFader.cpp:35:6:void DadDSP::cAudioFader::startFadeInB()	0	static
+../DAD_FORGE/DSP/Src/cAudioFader.cpp:43:6:void DadDSP::cAudioFader::startFadeOutA()	0	static
+../DAD_FORGE/DSP/Src/cAudioFader.cpp:51:6:void DadDSP::cAudioFader::Process(float, float, float, float, float&, float&)	40	static
+../DAD_FORGE/DSP/Src/cAudioFader.cpp:114:7:float DadDSP::cAudioFader::getProgress() const	0	static
+../DAD_FORGE/DSP/Src/cAudioFader.cpp:126:24:DadDSP::cAudioFader::FadeState DadDSP::cAudioFader::getState() const	0	static
+../DAD_FORGE/DSP/Src/cAudioFader.cpp:133:24:DadDSP::cAudioFader::FadeState DadDSP::cAudioFader::getLastState() const	0	static

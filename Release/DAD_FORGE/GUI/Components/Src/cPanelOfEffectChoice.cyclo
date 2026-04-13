@@ -1,0 +1,9 @@
+../DAD_FORGE/GUI/Components/Src/cPanelOfEffectChoice.cpp:76:6:virtual void DadGUI::cPanelOfEffectChoice::Update()	4
+../DAD_FORGE/GUI/Components/Src/cPanelOfEffectChoice.cpp:67:6:virtual void DadGUI::cPanelOfEffectChoice::Deactivate()	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Components/Inc/cPanelOfEffectChoice.h:31:13:DadGUI::cPanelOfEffectChoice::~cPanelOfEffectChoice()	8
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Components/Inc/cPanelOfEffectChoice.h:31:13:virtual DadGUI::cPanelOfEffectChoice::~cPanelOfEffectChoice()	8
+../DAD_FORGE/GUI/Components/Src/cPanelOfEffectChoice.cpp:28:6:void DadGUI::cPanelOfEffectChoice::Initialize(uint32_t, DadGUI::EffectChangeCallback_t, uint32_t)	3
+../DAD_FORGE/GUI/Components/Src/cPanelOfEffectChoice.cpp:50:6:void DadGUI::cPanelOfEffectChoice::addEffect(const char*, const char*)	10
+../DAD_FORGE/GUI/Components/Src/cPanelOfEffectChoice.cpp:110:6:void DadGUI::cPanelOfEffectChoice::Draw()	1
+../DAD_FORGE/GUI/Components/Src/cPanelOfEffectChoice.cpp:57:6:virtual void DadGUI::cPanelOfEffectChoice::Activate()	1
+../DAD_FORGE/GUI/Components/Src/cPanelOfEffectChoice.cpp:96:6:virtual void DadGUI::cPanelOfEffectChoice::Redraw()	2

@@ -1,0 +1,6 @@
+../DAD_FORGE/PersistentStorage/Src/Serialize.cpp:24:6:void DadPersistentStorage::cSerialize::PushRaw(const void*, size_t)	32	static
+../DAD_FORGE/PersistentStorage/Src/Serialize.cpp:31:6:void DadPersistentStorage::cSerialize::PullRaw(void*, size_t)	16	static
+../DAD_FORGE/PersistentStorage/Src/Serialize.cpp:44:6:void DadPersistentStorage::cSerialize::Push(const std::string&)	32	static
+../DAD_FORGE/PersistentStorage/Src/Serialize.cpp:52:13:std::string DadPersistentStorage::cSerialize::PullString()	16	static
+../DAD_FORGE/PersistentStorage/Src/Serialize.cpp:70:8:size_t DadPersistentStorage::cSerialize::getBuffer(const uint8_t**) const	0	static
+../DAD_FORGE/PersistentStorage/Src/Serialize.cpp:77:6:void DadPersistentStorage::cSerialize::setBuffer(const void*, size_t)	32	static

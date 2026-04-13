@@ -1,0 +1,5 @@
+../DAD_FORGE/Utilities/Src/cCallBackIterator.cpp:16:1:DadUtilities::cCallBackIterator::~cCallBackIterator()	3
+../DAD_FORGE/Utilities/Src/cCallBackIterator.cpp:25:6:bool DadUtilities::cCallBackIterator::RegisterListener(DadUtilities::IteratorCallback_t, uint32_t, uint8_t)	6
+../DAD_FORGE/Utilities/Src/cCallBackIterator.cpp:66:6:bool DadUtilities::cCallBackIterator::UnregisterListener(DadUtilities::IteratorCallback_t)	6
+../DAD_FORGE/Utilities/Src/cCallBackIterator.cpp:112:6:void DadUtilities::cCallBackIterator::NotifyListeners(void*)	5
+../DAD_FORGE/Utilities/Src/cCallBackIterator.cpp:132:6:void DadUtilities::cCallBackIterator::Clear()	3

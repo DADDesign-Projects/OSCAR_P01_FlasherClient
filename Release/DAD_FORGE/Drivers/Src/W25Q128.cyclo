@@ -1,0 +1,16 @@
+../DAD_FORGE/Drivers/Src/W25Q128.cpp:537:10:virtual uint32_t DadDrivers::cW25Q128::getSize() const	1
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/Drivers/Inc/W25Q128.h:219:13:DadDrivers::cW25Q128::~cW25Q128()	1
+../DAD_FORGE/Drivers/Src/W25Q128.cpp:280:19:virtual HAL_StatusTypeDef DadDrivers::cW25Q128::ModeIndirect()	3
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/Drivers/Inc/W25Q128.h:219:13:virtual DadDrivers::cW25Q128::~cW25Q128()	1
+../DAD_FORGE/Drivers/Src/W25Q128.cpp:235:19:virtual HAL_StatusTypeDef DadDrivers::cW25Q128::ModeMemoryMap()	12
+../DAD_FORGE/Drivers/Src/W25Q128.cpp:494:19:virtual HAL_StatusTypeDef DadDrivers::cW25Q128::getFlashID(FlashID*)	13
+../DAD_FORGE/Drivers/Src/W25Q128.cpp:302:19:virtual HAL_StatusTypeDef DadDrivers::cW25Q128::Read(uint8_t*, uint32_t, uint32_t)	12
+../DAD_FORGE/Drivers/Src/W25Q128.cpp:52:1:DadDrivers::cW25Q128::cW25Q128()	1
+../DAD_FORGE/Drivers/Src/W25Q128.cpp:556:19:HAL_StatusTypeDef DadDrivers::cW25Q128::WriteEnable()	1
+../DAD_FORGE/Drivers/Src/W25Q128.cpp:572:19:HAL_StatusTypeDef DadDrivers::cW25Q128::WaitWhileBusy(uint32_t)	7
+../DAD_FORGE/Drivers/Src/W25Q128.cpp:69:19:virtual HAL_StatusTypeDef DadDrivers::cW25Q128::Init(QSPI_HandleTypeDef*, bool, uint32_t)	15
+../DAD_FORGE/Drivers/Src/W25Q128.cpp:339:19:virtual HAL_StatusTypeDef DadDrivers::cW25Q128::Write(uint8_t*, uint32_t, uint32_t)	22
+../DAD_FORGE/Drivers/Src/W25Q128.cpp:388:19:virtual HAL_StatusTypeDef DadDrivers::cW25Q128::EraseBlock4K(uint32_t)	13
+../DAD_FORGE/Drivers/Src/W25Q128.cpp:416:19:virtual HAL_StatusTypeDef DadDrivers::cW25Q128::EraseBlock32K(uint32_t)	13
+../DAD_FORGE/Drivers/Src/W25Q128.cpp:445:19:virtual HAL_StatusTypeDef DadDrivers::cW25Q128::EraseBlock64K(uint32_t)	13
+../DAD_FORGE/Drivers/Src/W25Q128.cpp:472:19:virtual HAL_StatusTypeDef DadDrivers::cW25Q128::EraseChip()	10

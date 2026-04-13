@@ -17,15 +17,14 @@
   */
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
-#include <HardwareAndCoFlasher.h>  // Hardware Definitions
 #include "main.h"
 #include "usb_device.h"
-
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 
 // =====** DAD **=================================================================
 
+#include "HardwareAndCoFlasher.h"  // Hardware Definitions
 
 // ===** END DAD **===============================================================
 

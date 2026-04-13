@@ -1,0 +1,9 @@
+../DAD_FORGE/PersistentStorage/Src/cBlockStorageManager.cpp:199:13:DadPersistentStorage::sSaveBlock* DadPersistentStorage::cBlockStorageManager::findFreeBlock(DadPersistentStorage::sSaveBlock*)	4
+../DAD_FORGE/PersistentStorage/Src/cBlockStorageManager.cpp:256:13:DadPersistentStorage::sSaveBlock* DadPersistentStorage::cBlockStorageManager::FindFirstBlock(uint32_t)	4
+../DAD_FORGE/PersistentStorage/Src/cBlockStorageManager.cpp:141:6:void DadPersistentStorage::cBlockStorageManager::Load(uint32_t, void*, uint32_t, uint32_t&)	5
+../DAD_FORGE/PersistentStorage/Src/cBlockStorageManager.cpp:53:6:bool DadPersistentStorage::cBlockStorageManager::Init(uint32_t)	5
+../DAD_FORGE/PersistentStorage/Src/cBlockStorageManager.cpp:188:10:uint32_t DadPersistentStorage::cBlockStorageManager::getSize(uint32_t)	2
+../DAD_FORGE/PersistentStorage/Src/cBlockStorageManager.cpp:171:6:void DadPersistentStorage::cBlockStorageManager::Delete(uint32_t)	2
+../DAD_FORGE/PersistentStorage/Src/cBlockStorageManager.cpp:89:6:bool DadPersistentStorage::cBlockStorageManager::Save(uint32_t, const void*, uint32_t)	4
+../DAD_FORGE/PersistentStorage/Src/cBlockStorageManager.cpp:224:6:void DadPersistentStorage::cBlockStorageManager::InitializeBlock()	4
+../DAD_FORGE/PersistentStorage/Src/cBlockStorageManager.cpp:76:6:void DadPersistentStorage::cBlockStorageManager::InitializeMemory(uint32_t)	1

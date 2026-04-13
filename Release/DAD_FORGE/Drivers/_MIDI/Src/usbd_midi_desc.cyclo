@@ -1,0 +1,7 @@
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi_desc.c:115:11:USBD_Midi_FS_DeviceDescriptor	1
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi_desc.c:125:11:USBD_Midi_FS_LangIDStrDescriptor	1
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi_desc.c:135:11:USBD_Midi_FS_ProductStrDescriptor	1
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi_desc.c:146:11:USBD_Midi_FS_ManufacturerStrDescriptor	1
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi_desc.c:169:11:USBD_Midi_FS_ConfigStrDescriptor	1
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi_desc.c:180:11:USBD_Midi_FS_InterfaceStrDescriptor	1
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi_desc.c:157:11:USBD_Midi_FS_SerialStrDescriptor	14

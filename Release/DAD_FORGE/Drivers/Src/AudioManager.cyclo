@@ -1,0 +1,7 @@
+../DAD_FORGE/Drivers/Src/AudioManager.cpp:47:6:void ConvertToAudioBuffer(const int32_t*, AudioBuffer*)	1
+../DAD_FORGE/Drivers/Src/AudioManager.cpp:69:6:void ConvertFromAudioBuffer(const AudioBuffer*, int32_t*)	1
+../DAD_FORGE/Drivers/Src/AudioManager.cpp:112:6:void HAL_SAI_TxCpltCallback(SAI_HandleTypeDef*)	2
+../DAD_FORGE/Drivers/Src/AudioManager.cpp:116:6:void HAL_SAI_TxHalfCpltCallback(SAI_HandleTypeDef*)	2
+../DAD_FORGE/Drivers/Src/AudioManager.cpp:140:6:void HAL_SAI_RxCpltCallback(SAI_HandleTypeDef*)	2
+../DAD_FORGE/Drivers/Src/AudioManager.cpp:144:6:void HAL_SAI_RxHalfCpltCallback(SAI_HandleTypeDef*)	2
+../DAD_FORGE/Drivers/Src/AudioManager.cpp:152:19:HAL_StatusTypeDef StartAudio(SAI_HandleTypeDef*, SAI_HandleTypeDef*)	2

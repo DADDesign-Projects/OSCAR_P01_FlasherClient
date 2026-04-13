@@ -1,0 +1,5 @@
+../DAD_FORGE/DSP/Src/cModulator.cpp:25:6:void DadDSP::cModulator::Initialize(float, float*, uint32_t, float, float, float, float)	4
+../DAD_FORGE/DSP/Src/cModulator.cpp:45:6:void DadDSP::cModulator::setFreq(float)	4
+../DAD_FORGE/DSP/Src/cModulator.cpp:59:6:void DadDSP::cModulator::setPitchVariation(float, float)	4
+../DAD_FORGE/DSP/Src/cModulator.cpp:75:7:float DadDSP::cModulator::Process(float, float, uint8_t, float, bool)	9
+../DAD_FORGE/DSP/Src/cModulator.cpp:127:7:float DadDSP::cModulator::calcSample(float, float, float) const	1

@@ -1,0 +1,2 @@
+../DAD_FORGE/DSP/Src/BiquadFilter.cpp:43:6:void DadDSP::cBiQuad::CalculateParameters()	24	static,ignoring_inline_asm
+../DAD_FORGE/DSP/Src/BiquadFilter.cpp:24:6:void DadDSP::cBiQuad::Initialize(float, float, float, float, DadDSP::FilterType)	0	static

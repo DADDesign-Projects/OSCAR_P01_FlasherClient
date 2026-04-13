@@ -1,0 +1,9 @@
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi_if.c:70:15:MIDI_DeInit_FS	0	static
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi_if.c:54:15:MIDI_Init_FS	8	static
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi_if.c:92:15:MIDI_Receive_FS	16	static
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi_if.c:153:9:MIDI_Transmit	16	static
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi_if.c:191:6:MIDI_SendNoteOn	16	static
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi_if.c:211:6:MIDI_SendNoteOff	16	static
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi_if.c:231:6:MIDI_SendControlChange	16	static
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi_if.c:250:6:MIDI_SendProgramChange	16	static
+../DAD_FORGE/Drivers/_MIDI/Src/usbd_midi_if.c:269:6:MIDI_SendPitchBend	16	static

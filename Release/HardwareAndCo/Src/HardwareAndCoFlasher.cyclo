@@ -1,0 +1,7 @@
+../HardwareAndCo/Src/HardwareAndCoFlasher.cpp:31:6:void HardwareAndCoFlasherInitialize()	4
+../HardwareAndCo/Src/HardwareAndCoFlasher.cpp:56:6:void MainLoopFlasher()	1
+../HardwareAndCo/Src/HardwareAndCoFlasher.cpp:71:11:void OnNoteOn(uint8_t, uint8_t, uint8_t)	1
+../HardwareAndCo/Src/HardwareAndCoFlasher.cpp:78:11:void OnNoteOff(uint8_t, uint8_t, uint8_t)	1
+../HardwareAndCo/Src/HardwareAndCoFlasher.cpp:85:11:void OnControlChange(uint8_t, uint8_t, uint8_t)	1
+../HardwareAndCo/Src/HardwareAndCoFlasher.cpp:92:11:void OnProgramChange(uint8_t, uint8_t)	1
+../HardwareAndCo/Src/HardwareAndCoFlasher.cpp:93:1:cpp)	1

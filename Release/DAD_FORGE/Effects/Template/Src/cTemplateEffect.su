@@ -1,0 +1,9 @@
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Core/Inc/GUI_Event.h:32:18:virtual void DadGUI::iGUI_EventListener::on_GUI_RT_Process()	0	static
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Core/Inc/GUI_Event.h:35:18:virtual void DadGUI::iGUI_EventListener::on_GUI_RT_ProcessIn(AudioBuffer*)	0	static
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Core/Inc/GUI_Event.h:38:18:virtual void DadGUI::iGUI_EventListener::on_GUI_RT_ProcessOut(AudioBuffer*)	0	static
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/GUI/Core/Inc/GUI_Event.h:41:18:virtual void DadGUI::iGUI_EventListener::on_GUI_Update()	0	static
+../DAD_FORGE/Effects/Template/Src/cTemplateEffect.cpp:61:10:virtual uint32_t DadEffect::cTemplateEffect::getEffectID()	0	static
+../DAD_FORGE/Effects/Template/Src/cTemplateEffect.cpp:69:6:virtual void DadEffect::cTemplateEffect::onProcess(AudioBuffer*, AudioBuffer*, eOnOff, bool)	0	static
+../DAD_FORGE/Effects/Template/Src/cTemplateEffect.cpp:26:6:virtual void DadEffect::cTemplateEffect::onInitialize()	144	static
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/Effects/Template/Inc/cTemplateEffect.h:21:7:virtual DadEffect::cTemplateEffect::~cTemplateEffect()	24	static
+D:/Dev/Cube/OSCAR_P01_FlasherClient/DAD_FORGE/Effects/Template/Inc/cTemplateEffect.h:21:7:DadEffect::cTemplateEffect::~cTemplateEffect()	24	static
